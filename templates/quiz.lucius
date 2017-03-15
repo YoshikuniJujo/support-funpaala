@@ -1,0 +1,15 @@
+h1 {
+	margin-left: 25px;
+}
+
+p {
+	margin-left: 25px;
+}
+
+input[type="radio"] {
+	margin-left: 50px;
+}
+
+.result {
+	margin-left: 50px;
+}

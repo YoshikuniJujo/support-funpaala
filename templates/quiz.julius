@@ -1,0 +1,11 @@
+function onRadioButtonChange() {
+	for (var i = 0; i < document.hoge.hoge.length; i++)
+		if (document.hoge.hoge[i].checked == true) {
+			v = document.hoge.hoge[i].value;
+			r = document.getElementById("output")
+			if (v == "hige")
+				r.innerHTML = "正解!!"
+			else
+				r.innerHTML = "ちがうよ"
+		}
+}

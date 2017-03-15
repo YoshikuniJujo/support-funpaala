@@ -1,0 +1,21 @@
+<h1>Funpaalaクイズ
+<p>
+    (工事中)
+    ここに書籍「Haskell -- 教養としての関数型プログラミング」
+    に関するクイズを置く
+
+<p>鼻の下や顎などに生えている毛は何?
+
+<form name="hoge">
+    <input type="radio" name="hoge" value="hige" onchange="onRadioButtonChange();"> hige
+    <br>
+    <input type="radio" name="hoge" value="huge" onchange="onRadioButtonChange();"> huge
+    <br>
+    <input type="radio" name="hoge" value="hege" onchange="onRadioButtonChange()"> hege
+    <br>
+
+<ul>
+    $forall item <- someList
+        <li>#{item}
+
+<p><div class="result" id="output">
