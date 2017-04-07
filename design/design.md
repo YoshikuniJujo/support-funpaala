@@ -102,6 +102,7 @@ https://support.funpaala.jp/practices
 
 * Yahoo! JAPAN IDから入手したID
 * 名前
+* クッキーでわたす一時的なランダム値
 
 ### 解答テーブル
 
